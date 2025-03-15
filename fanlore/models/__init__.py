@@ -6,3 +6,4 @@ from .category import Category
 from .badge import Badge
 from .file import File
 from .user import User
+from .content import ContentFile
